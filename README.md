@@ -13,6 +13,7 @@
 
 <br>
 🛠️ My Skills
+<hr>
 
 ### 👉 Programming languages
 
